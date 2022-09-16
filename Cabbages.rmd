@@ -57,9 +57,7 @@ favstats(Cult~Date,data=veggy)
 
 ## Inferential Results
 
-```{r}
-t.test(Cult~Date,data=veggy)
-```
+
 
 
 
