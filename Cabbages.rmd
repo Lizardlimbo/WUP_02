@@ -28,6 +28,7 @@ veggy <- cabbages
 We explain VitC based on Cult
 VitC is numerical, Cult is catgorical
 helper file is Numerical-Cat
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
